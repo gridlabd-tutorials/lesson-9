@@ -1,6 +1,6 @@
 [![Simulation](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
-# Lesson 8 - Importing Data
+# Lesson 9 - Importing Data
 
 The goal of this lesson is to introduce the most direct way of importing data into the simulation while it is running.  The specific learning objectives are the following.
 
