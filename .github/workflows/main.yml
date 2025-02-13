@@ -29,7 +29,7 @@ jobs:
       run: gridlabd main.glm
       
     - name: Save voltage plot
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: Load 114 voltage
         path: voltage_114.png
